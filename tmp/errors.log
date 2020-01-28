@@ -1,0 +1,6 @@
+[28-Jan-2020 13:53:26 Europe/Berlin] 4 Domain file "./lang/C/LC_MESSAGES/C.po" not found.
+[28-Jan-2020 13:53:26 Europe/Berlin] ::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[28-Jan-2020 13:53:28 Europe/Berlin] 0::login.php:107:[before upgrade] count(): Parameter must be an array or an object that implements Countable
+[28-Jan-2020 14:05:15 Europe/Berlin] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
+[28-Jan-2020 14:05:15 Europe/Berlin] 0::login.php:107:[before upgrade] count(): Parameter must be an array or an object that implements Countable
+[28-Jan-2020 14:16:49 Europe/Berlin] 0::gl_db_trans.inc:464:[before upgrade] Unparenthesized `a ? b : c ? d : e` is deprecated. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)`
